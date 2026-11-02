@@ -142,12 +142,12 @@ rules of fair-play).
 
 ## 4.5. Main stage
 | Teams | Format | Days |
-|-------|--------|------|
-| 8 | 2 round-robin groups (x3 BO1) + single-elimination BO3 playoffs | 1 |
-| 9–10 | 2 round-robin groups (x3/4 BO1) + single-elimination BO3 playoffs | 2 |
-| 11–12 | 2 round-robin groups (x4/5 BO1) + single-elimination BO3 playoffs | 2 |
-| 13–16 | 4 round-robin groups (x2/3 BO1) + single-elimination BO3 playoffs | 2 |
-| 17–20 | 8 lowest-ranking teams play play ins: 2 round-robin groups (x3 BO1); top 2 of each group advance to the main stage. Main stage: top12 vrs teams + 4 from First Stage(play ins) 4 round-robin groups (x3 BO1) + single-elimination BO3 playoffs | 2 |
+|------:|--------|:----:|
+| 8 | 8-team double-elimination bracket (BO3), played through to the Grand Final | 2 |
+| 9 | Play-in: seed 8 vs seed 9 (BO3) for the last spot, followed by the 8-team double-elimination main event | 3 |
+| 10 | Group Stage: one 4-team double-elimination (GSL) group with seeds 7–10, where the top 2 join seeds 1–6 in the main event; followed by the 8-team double-elimination main event | 3 |
+| 11 | Group Stage: two groups with seeds 5–11 (one 4-team double-elimination group, one 3-team group), where the top 2 from each join seeds 1–4 in the main event; followed by the 8-team double-elimination main event | 3 |
+| 12 | Group Stage: two 4-team double-elimination (GSL) groups with seeds 5–12, where the top 2 from each join seeds 1–4 in the main event; followed by the 8-team double-elimination main event | 3 |
 ## 4.6. Playoffs
 8 teams that advanced from the Main stage will play a single-elimination bracket. 
 The matches are Bo3.
