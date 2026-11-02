@@ -1,7 +1,7 @@
 # SECTION I - General information
 
 ## 1.1. Operator & Organizer
-The operator of the “BaseStack League #1” tournament is **BrzózkaTV sp. z o.o.**,  
+The operator of the “BaseStack League #2” tournament is **BrzózkaTV sp. z o.o.**,  
 based in Racibory 10, 19-213; EU VAT ID: PL7191580264. 
 
 The organizer of the “BaseStack League #1” tournament is BASE STACK sp. z o.o.,
@@ -41,7 +41,7 @@ The administrator decides on the provision of broadcasting rights.
 GOTV relays will be shared on the organizer’s **Discord server**.  
 
 ## 1.8. Entry fee
-To participate in the open qualifier, a team must:  
+To participate in the tournament, a team must:  
 1. Complete the form available at **[here](https://forms.gle/uWLbVjX63YrL9re4A)**  
 2. Pay the required entry fee of **2000 PLN(+VAT 23%)**  
 
@@ -143,15 +143,13 @@ rules of fair-play).
 ## 4.5. Main stage
 | Teams | Format | Days |
 |------:|--------|:----:|
-| 8 | 8-team double-elimination bracket (BO3), played through to the Grand Final | 2 |
+| 8 | 8-team double-elimination bracket, played through to the Grand Final | 2 |
 | 9 | Play-in: seed 8 vs seed 9 (BO3) for the last spot, followed by the 8-team double-elimination main event | 3 |
 | 10 | Group Stage: one 4-team double-elimination (GSL) group with seeds 7–10, where the top 2 join seeds 1–6 in the main event; followed by the 8-team double-elimination main event | 3 |
-| 11 | Group Stage: two groups with seeds 5–11 (one 4-team double-elimination group, one 3-team group), where the top 2 from each join seeds 1–4 in the main event; followed by the 8-team double-elimination main event | 3 |
+| 11 | Group Stage: two groups with seeds 5–11 (one 4-team double-elimination group, one 3-team group double-elimination group), where the top 2 from each join seeds 1–4 in the main event; followed by the 8-team double-elimination main event | 3 |
 | 12 | Group Stage: two 4-team double-elimination (GSL) groups with seeds 5–12, where the top 2 from each join seeds 1–4 in the main event; followed by the 8-team double-elimination main event | 3 |
 ## 4.6. Playoffs
-8 teams that advanced from the Main stage will play a single-elimination bracket. 
-The matches are Bo3.
-
+8-team double-elimination bracket (BO3), played through to the Grand Final. 
 ## 4.7. VRS Information
 All VRS info is available on the [tournament website](https://x.com/BaseStackPolska)).  
 
