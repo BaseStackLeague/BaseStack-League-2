@@ -18,7 +18,7 @@
 - **Registration order:** The 12 highest VRS-ranked teams from the Open Registration will be selected first in the Team Selection and contacted on November 13. After that, selection will continue down based on the VRS ranking, starting with Team #13, followed by Team #14, #15, and so on. If it comes down to teams with no VRS rank, selection will be based on their registration timestamp.
 To be included in the initial Team Selection from the Open Registration, starting on November 13th, teams must have completed their registration by November 12 at 23:59 CET at the latest. Registration will remain open after the initial Team Selection. If slots remain available, additional teams may still register and be considered for participation.
 Registration fully closes on November 15 at 23:59 CET, 2026. After this deadline, no new teams can be accepted to participate
-- **Seeding:** Based on the VRS ranking published on 2th November 2026.
+- **Seeding:** Based on the VRS ranking published on 2nd November 2026.
 - 1️⃣ VRS ranking (November 2nd, 2026) 
 - 2️⃣ HLTV ranking (November 2nd, 2026)
 - 3️⃣ Avg FACEIT ELO (5 players) 
