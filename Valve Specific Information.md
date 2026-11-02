@@ -44,8 +44,8 @@ The prize pool depends on the number of participating teams.
 | Participating teams | Prize pool |
 |--------------------:|-----------:|
 | 8 (minimum) | 10,000 PLN |
-| 10 | 15,000 PLN |
-| 12 | 22,000 PLN |
+| 9-10 | 15,000 PLN |
+| 11-12 | 22,000 PLN |
 
 
 Prize distribution
