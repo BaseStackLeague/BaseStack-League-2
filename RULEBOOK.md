@@ -4,7 +4,7 @@
 The operator of the “BaseStack League #2” tournament is **BrzózkaTV sp. z o.o.**,  
 based in Racibory 10, 19-213; EU VAT ID: PL7191580264. 
 
-The organizer of the “BaseStack League #1” tournament is BASE STACK sp. z o.o.,
+The organizer of the “BaseStack League #2” tournament is BASE STACK sp. z o.o.,
 based in Plac Ireneusza Gugulskiego 1, 02-661 Warsaw, Poland; EU VAT ID: PL5213889106
 
 ## 1.2. Rule changes
