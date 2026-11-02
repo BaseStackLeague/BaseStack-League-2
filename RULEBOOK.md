@@ -140,7 +140,7 @@ rules of fair-play).
 
 
 
-## 4.5. Main stage
+## 4.5. Group Stage
 | Teams | Format | Days |
 |------:|--------|:----:|
 | 8 | 8-team double-elimination bracket, played through to the Grand Final | 2 |
@@ -149,7 +149,7 @@ rules of fair-play).
 | 11 | Group Stage: two groups with seeds 5–11 (one 4-team double-elimination group, one 3-team group double-elimination group), where the top 2 from each join seeds 1–4 in the main event; followed by the 8-team double-elimination main event | 3 |
 | 12 | Group Stage: two 4-team double-elimination (GSL) groups with seeds 5–12, where the top 2 from each join seeds 1–4 in the main event; followed by the 8-team double-elimination main event | 3 |
 ## 4.6. Playoffs
-8-team double-elimination bracket (BO3), played through to the Grand Final. 
+8-team double-elimination bracket , played through to the Grand Final. 
 ## 4.7. VRS Information
 All VRS info is available on the [tournament website](https://x.com/BaseStackPolska)).  
 
